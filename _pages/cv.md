@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical and Electronics Engineering, NIT Warangal, 2012
+* M.S. in Computing with Majors in Data Analytics, Dublin City University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2018 – Aug 2018, Dublin, Ireland: Intern
+  * The Irish Centre of Cloud Computing & Commerce
+  * Task: Perform Text Analysis and Mining on Social Media Data.
+  * Skills: R(text2vec), Tableau, BigQuery, Azure ML and AWS.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Apr 2016 – Aug 2017, Bengaluru, India: Data Scientist
+  * INSOFE
+  * Task: Consultant, Advisor and Trainer providing analytics services.
+  * Skills: python (keras, gensim), R (caret, ggplot2, plotly, shiny), SPSS, QlikView, hadoop, web crawling.
 
-Publications
+* Oct 2015 – Mar 2016, Hyderabad, India: Research Assistant
+  * INSOFE
+  * Task: Perform Research, Proof of Concept, Data Warehousing and Modelling.
+  * Skills: MATLAB, MySQL (R/python - ODBC), R (Apriori), h2o.
+
+* Jul 2012 – Aug 2014 Mumbai, India: Executive Engineer
+  * Siemens
+  * Task: Managed all phases of Sales and Marketing for OEM products.
+  * Skills: Excel, Public Speaking, Client Presentations and Negotiations.
+
+
+Skill-sets
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming
+  * R, python, C, SQL, SPSS
+* Machine Learning
+  * Statistical Modeling
+  * Regression
+  * Classification
+  * Segmentation/Clustering
+  * Natural Language Processing
+  * Deep Learning
+* Image Processing
+  * openCV, skimage
+* Visualization
+  * Tableau
+  * matplotlib, bokeh, plotly, ggplot
+* Big Data
+  * Hadoop, Pig, Hive, Spark, Kafka, Storm
+* Cloud
+  * BigQuery, Azure ML, AWS(EBS, EMR), Heroku
